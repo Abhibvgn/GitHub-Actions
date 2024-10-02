@@ -15,4 +15,10 @@
 
 In conclusion, Jenkins is better suited for complex and large-scale automation tasks, while GitHub Actions is a more cost-effective and user-friendly solution for simple to moderate automation needs.
 
+### When not to use GitHub-hosted Runner
+
+- When you're working with a private repository and require full control over your CI/CD environment.
+- When GitHub-hosted runners do not meet your resource or dependency requirements.
+- When you have security concerns due to the lack of transparency or control over the GitHub-hosted runner environment.
+
 
