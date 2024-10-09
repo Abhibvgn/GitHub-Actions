@@ -1,5 +1,5 @@
 # add.py
-# This is a test to check 
+# This is a test to check git-hub hosted runner
 def add(a, b):
     return a + b
 
